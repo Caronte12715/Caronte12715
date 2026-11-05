@@ -5,8 +5,8 @@
 
 **Ideas → prototipos → proyectos reales.**
 
-[![Perfil profesional](https://img.shields.io/badge/PERFIL-Profesional-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XanderGuevara)
-[![Repositorios](https://img.shields.io/badge/EXPLORAR-Repositorios-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caronte12715?tab=repositories)
+[**Perfil profesional**](https://github.com/XanderGuevara)
+[**Repositorios**](https://github.com/Caronte12715?tab=repositories)
 
 </div>
 
@@ -20,14 +20,14 @@ Mi enfoque combina **desarrollo web con Astro y HTML5**, soporte informático, r
 
 ## `TECNOLOGÍAS`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-Aprendiendo-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Fundamentos-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Fundamentos-0078D4?style=flat-square)
+`HTML5`
+`CSS3`
+`JavaScript`
+`Astro`
+`Git`
+`React`
+`AWS`
+`Azure`
 
 ## `PROYECTOS PARA EXPLORAR`
 
@@ -51,7 +51,7 @@ Mi enfoque combina **desarrollo web con Astro y HTML5**, soporte informático, r
 
 **¿Buscas mi presentación profesional?**
 
-[![XanderGuevara](https://img.shields.io/badge/IR_A-XanderGuevara-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XanderGuevara)
+[**XanderGuevara**](https://github.com/XanderGuevara)
 
 <sub>Construir · Documentar · Aprender · Mejorar</sub>
 
